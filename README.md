@@ -4,6 +4,7 @@ Code for "Enhancing Automated Interpretability with Output-Centric Feature Descr
 Feature descriptions can be found under the `descriptions` folder.
 
 Please cite as:
+```
 @misc{gurarieh2025enhancingautomatedinterpretabilityoutputcentric,
       title={Enhancing Automated Interpretability with Output-Centric Feature Descriptions}, 
       author={Yoav Gur-Arieh and Roy Mayan and Chen Agassy and Atticus Geiger and Mor Geva},
@@ -13,3 +14,4 @@ Please cite as:
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2501.08319}, 
 }
+```
