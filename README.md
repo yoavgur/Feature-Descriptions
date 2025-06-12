@@ -5,6 +5,8 @@ Code for "Enhancing Automated Interpretability with Output-Centric Feature Descr
 
 Feature descriptions can be found under the `descriptions` folder, and example code in the `feature_descriptions_pipeline.ipynb` notebook.
 
+---
+
 Please cite as:
 ```
 @misc{gurarieh2025enhancingautomatedinterpretabilityoutputcentric,
