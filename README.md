@@ -1,7 +1,7 @@
 # Enhancing Automated Interpretability with Output-Centric Feature Descriptions
 Code for "Enhancing Automated Interpretability with Output-Centric Feature Descriptions" - Yoav Gur-Arieh, Roy Mayan, Chen Agassy, Atticus Geiger, Mor Geva. 2025.
 
-<img width="1460" alt="Screenshot 2025-05-29 at 14 16 35" src="https://github.com/user-attachments/assets/74423b92-1df6-4031-a2bf-fc9df6928e45" />
+<img width="1460" alt="Screenshot 2025-05-29 at 14 16 35" src="https://github.com/user-attachments/assets/aa028caf-6cfb-4f8e-a29d-1135cd713437" />
 
 Feature descriptions can be found under the `descriptions` folder.
 
