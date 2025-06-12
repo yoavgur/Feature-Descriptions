@@ -3,7 +3,7 @@ Code for "Enhancing Automated Interpretability with Output-Centric Feature Descr
 
 <img width="1460" alt="Screenshot 2025-05-29 at 14 16 35" src="https://github.com/user-attachments/assets/aa028caf-6cfb-4f8e-a29d-1135cd713437" />
 
-Feature descriptions can be found under the `descriptions` folder.
+Feature descriptions can be found under the `descriptions` folder, and example code in the `feature_descriptions_pipeline.ipynb` notebook.
 
 Please cite as:
 ```
